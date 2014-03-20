@@ -3,7 +3,7 @@ XBMC XML Library Parser Readme
 
 1. Context and Purpose of Code
 
-I wrote this code as I was looking for a simple way to generate an east to read list of all the movies and TV shows listed in my XMBC library to view online and include the path information for sharing. After sampling many different versions I decided to take a look at the library xml and see if I could just make something quick and easy myself. 
+I wrote this code as I was looking for a simple way to generate an easy to read list of all the movies and TV shows listed in my XMBC library to view online and include the path information for sharing. After sampling many different versions I decided to take a look at the library xml and see if I could just make something quick and easy myself. 
 
 Once I had the initial code I expanded it to add some error checking at the start and a copyright line to the bottom of the generated html so it could be given to other people to use but it still hasn't ever been released.
 
